@@ -1,0 +1,462 @@
+FA_sub-OAS30119_ses-d3260_dwi_48.png MD_sub-OAS30119_ses-d3260_dwi_48.png rsub-OAS30119_ses-d3260_run-01_T1w_128.png AD
+FA_sub-OAS30044_ses-d0054_run-02_dwi_1.png MD_sub-OAS30044_ses-d0054_run-02_dwi_1.png Normal 
+rsub-OAS30094_ses-d0679_run-01_T1w_126.png AD  
+FA_sub-OAS30139_ses-d0101_run-02_dwi_46.png MD_sub-OAS30139_ses-d0101_run-02_dwi_46.png AD 
+FA_sub-OAS30209_ses-d1976_run-02_dwi_50.png MD_sub-OAS30209_ses-d1976_run-02_dwi_50.png AD 
+FA_sub-OAS30119_ses-d3722_run-01_dwi_31.png MD_sub-OAS30119_ses-d3722_run-01_dwi_31.png rsub-OAS30119_ses-d3722_T1w_111.png MCI
+FA_sub-OAS30119_ses-d3722_run-02_dwi_51.png MD_sub-OAS30119_ses-d3722_run-02_dwi_51.png MCI 
+FA_sub-OAS30003_ses-d2682_dwi_1.png MD_sub-OAS30003_ses-d2682_dwi_1.png rsub-OAS30003_ses-d2682_T1w_1.png Normal
+FA_sub-OAS30005_ses-d2384_run-01_dwi_1.png MD_sub-OAS30005_ses-d2384_run-01_dwi_1.png rsub-OAS30005_ses-d2384_T1w_1.png Normal
+FA_sub-OAS30255_ses-d0019_dwi_50.png MD_sub-OAS30255_ses-d0019_dwi_50.png rsub-OAS30255_ses-d0019_run-01_T1w_130.png AD
+FA_sub-OAS30153_ses-d3877_dwi_49.png MD_sub-OAS30153_ses-d3877_dwi_49.png rsub-OAS30153_ses-d3877_run-01_T1w_129.png AD
+FA_sub-OAS31128_ses-d1405_dwi_1.png MD_sub-OAS31128_ses-d1405_dwi_1.png rsub-OAS31128_ses-d1405_run-01_T1w_1.png Normal
+FA_sub-OAS30287_ses-d0890_run-02_dwi_47.png MD_sub-OAS30287_ses-d0890_run-02_dwi_47.png AD 
+FA_sub-OAS30036_ses-d0059_run-01_dwi_1.png MD_sub-OAS30036_ses-d0059_run-01_dwi_1.png rsub-OAS30036_ses-d0059_T1w_1.png Normal
+FA_sub-OAS30214_ses-d4464_run-02_dwi_49.png MD_sub-OAS30214_ses-d4464_run-02_dwi_49.png AD 
+FA_sub-OAS30119_ses-d3722_run-01_dwi_45.png MD_sub-OAS30119_ses-d3722_run-01_dwi_45.png rsub-OAS30119_ses-d3722_T1w_125.png MCI
+FA_sub-OAS30119_ses-d3722_run-02_dwi_55.png MD_sub-OAS30119_ses-d3722_run-02_dwi_55.png MCI 
+FA_sub-OAS30153_ses-d3877_dwi_50.png MD_sub-OAS30153_ses-d3877_dwi_50.png rsub-OAS30153_ses-d3877_run-01_T1w_130.png AD
+FA_sub-OAS30034_ses-d0044_run-01_dwi_1.png MD_sub-OAS30034_ses-d0044_run-01_dwi_1.png rsub-OAS30034_ses-d0044_T1w_1.png Normal
+rsub-OAS30119_ses-d1209_run-01_T1w_130.png AD  
+FA_sub-OAS30076_ses-d1735_run-01_dwi_50.png MD_sub-OAS30076_ses-d1735_run-01_dwi_50.png rsub-OAS30076_ses-d1735_T1w_130.png AD
+FA_sub-OAS30314_ses-d7814_dwi_36.png MD_sub-OAS30314_ses-d7814_dwi_36.png rsub-OAS30314_ses-d7814_run-01_T1w_116.png MCI
+FA_sub-OAS30009_ses-d0148_dwi_1.png MD_sub-OAS30009_ses-d0148_dwi_1.png rsub-OAS30009_ses-d0148_run-01_T1w_1.png Normal
+FA_sub-OAS30119_ses-d3722_run-02_dwi_69.png MD_sub-OAS30119_ses-d3722_run-02_dwi_69.png MCI 
+rsub-OAS30007_ses-d2722_T1w_1.png Normal  
+rsub-OAS30012_ses-d0124_run-01_T1w_131.png MCI  
+FA_sub-OAS30005_ses-d3453_run-02_dwi_1.png MD_sub-OAS30005_ses-d3453_run-02_dwi_1.png Normal 
+FA_sub-OAS30240_ses-d3487_run-01_dwi_1.png MD_sub-OAS30240_ses-d3487_run-01_dwi_1.png rsub-OAS30240_ses-d3487_T1w_1.png Normal
+FA_sub-OAS30314_ses-d7814_dwi_42.png MD_sub-OAS30314_ses-d7814_dwi_42.png rsub-OAS30314_ses-d7814_run-01_T1w_122.png MCI
+rsub-OAS30144_ses-d1204_run-01_T1w_127.png AD  
+FA_sub-OAS30314_ses-d7814_dwi_37.png MD_sub-OAS30314_ses-d7814_dwi_37.png rsub-OAS30314_ses-d7814_run-01_T1w_117.png MCI
+FA_sub-OAS30119_ses-d3722_run-01_dwi_60.png MD_sub-OAS30119_ses-d3722_run-01_dwi_60.png rsub-OAS30119_ses-d3722_T1w_140.png MCI
+FA_sub-OAS30119_ses-d3722_run-02_dwi_39.png MD_sub-OAS30119_ses-d3722_run-02_dwi_39.png MCI 
+FA_sub-OAS30006_ses-d2342_run-02_dwi_1.png MD_sub-OAS30006_ses-d2342_run-02_dwi_1.png Normal 
+FA_sub-OAS30119_ses-d3722_run-02_dwi_33.png MD_sub-OAS30119_ses-d3722_run-02_dwi_33.png MCI 
+FA_sub-OAS30038_ses-d3376_run-02_dwi_1.png MD_sub-OAS30038_ses-d3376_run-02_dwi_1.png Normal 
+rsub-OAS30041_ses-d6548_run-01_T1w_124.png MCI  
+FA_sub-OAS30145_ses-d4247_dwi_50.png MD_sub-OAS30145_ses-d4247_dwi_50.png rsub-OAS30145_ses-d4247_run-01_T1w_130.png AD
+FA_sub-OAS31038_ses-d4037_dwi_1.png MD_sub-OAS31038_ses-d4037_dwi_1.png rsub-OAS31038_ses-d4037_run-01_T1w_1.png Normal
+FA_sub-OAS30119_ses-d3722_run-01_dwi_51.png MD_sub-OAS30119_ses-d3722_run-01_dwi_51.png rsub-OAS30119_ses-d3722_T1w_131.png MCI
+rsub-OAS30145_ses-d3506_run-01_T1w_128.png AD  
+FA_sub-OAS30209_ses-d1976_run-02_dwi_49.png MD_sub-OAS30209_ses-d1976_run-02_dwi_49.png AD 
+FA_sub-OAS30313_ses-d0048_run-02_dwi_46.png MD_sub-OAS30313_ses-d0048_run-02_dwi_46.png AD 
+FA_sub-OAS30033_ses-d1267_run-01_dwi_1.png MD_sub-OAS30033_ses-d1267_run-01_dwi_1.png rsub-OAS30033_ses-d1267_T1w_1.png Normal
+rsub-OAS30064_ses-d0687_run-01_T1w_126.png AD  
+FA_sub-OAS30206_ses-d2303_run-02_dwi_46.png MD_sub-OAS30206_ses-d2303_run-02_dwi_46.png AD 
+FA_sub-OAS30119_ses-d3722_run-01_dwi_49.png MD_sub-OAS30119_ses-d3722_run-01_dwi_49.png rsub-OAS30119_ses-d3722_T1w_129.png MCI
+FA_sub-OAS30119_ses-d3260_dwi_49.png MD_sub-OAS30119_ses-d3260_dwi_49.png rsub-OAS30119_ses-d3260_run-01_T1w_129.png AD
+FA_sub-OAS30003_ses-d3731_run-01_dwi_1.png MD_sub-OAS30003_ses-d3731_run-01_dwi_1.png rsub-OAS30003_ses-d3731_T1w_1.png Normal
+FA_sub-OAS30119_ses-d3722_run-01_dwi_64.png MD_sub-OAS30119_ses-d3722_run-01_dwi_64.png rsub-OAS30119_ses-d3722_T1w_144.png MCI
+FA_sub-OAS30008_ses-d1327_run-01_dwi_1.png MD_sub-OAS30008_ses-d1327_run-01_dwi_1.png rsub-OAS30008_ses-d1327_T1w_1.png Normal
+FA_sub-OAS30158_ses-d2467_dwi_46.png MD_sub-OAS30158_ses-d2467_dwi_46.png rsub-OAS30158_ses-d2467_run-01_T1w_126.png AD
+FA_sub-OAS30314_ses-d7814_dwi_34.png MD_sub-OAS30314_ses-d7814_dwi_34.png rsub-OAS30314_ses-d7814_run-01_T1w_114.png MCI
+FA_sub-OAS30553_ses-d0822_dwi_1.png MD_sub-OAS30553_ses-d0822_dwi_1.png rsub-OAS30553_ses-d0822_run-01_T1w_1.png Normal
+FA_sub-OAS30119_ses-d3722_run-01_dwi_34.png MD_sub-OAS30119_ses-d3722_run-01_dwi_34.png rsub-OAS30119_ses-d3722_T1w_114.png MCI
+rsub-OAS30012_ses-d0124_run-01_T1w_130.png MCI  
+FA_sub-OAS30119_ses-d3722_run-01_dwi_56.png MD_sub-OAS30119_ses-d3722_run-01_dwi_56.png rsub-OAS30119_ses-d3722_T1w_136.png MCI
+FA_sub-OAS30032_ses-d1661_dwi_1.png MD_sub-OAS30032_ses-d1661_dwi_1.png rsub-OAS30032_ses-d1661_run-01_T1w_1.png Normal
+FA_sub-OAS30011_ses-d0055_run-01_dwi_1.png MD_sub-OAS30011_ses-d0055_run-01_dwi_1.png rsub-OAS30011_ses-d0055_T1w_1.png Normal
+FA_sub-OAS30004_ses-d3457_run-01_dwi_1.png MD_sub-OAS30004_ses-d3457_run-01_dwi_1.png rsub-OAS30004_ses-d3457_T1w_1.png Normal
+FA_sub-OAS30119_ses-d3722_run-02_dwi_25.png MD_sub-OAS30119_ses-d3722_run-02_dwi_25.png MCI 
+FA_sub-OAS30076_ses-d1735_run-02_dwi_49.png MD_sub-OAS30076_ses-d1735_run-02_dwi_49.png AD 
+rsub-OAS30144_ses-d1204_run-01_T1w_129.png AD  
+rsub-OAS30165_ses-d0563_run-01_T1w_1.png Normal  
+FA_sub-OAS30085_ses-d1566_run-02_dwi_49.png MD_sub-OAS30085_ses-d1566_run-02_dwi_49.png AD 
+FA_sub-OAS30085_ses-d1566_run-01_dwi_48.png MD_sub-OAS30085_ses-d1566_run-01_dwi_48.png rsub-OAS30085_ses-d1566_T1w_128.png AD
+FA_sub-OAS30214_ses-d4464_run-01_dwi_49.png MD_sub-OAS30214_ses-d4464_run-01_dwi_49.png rsub-OAS30214_ses-d4464_T1w_129.png AD
+FA_sub-OAS30209_ses-d1976_run-02_dwi_46.png MD_sub-OAS30209_ses-d1976_run-02_dwi_46.png AD 
+FA_sub-OAS30240_ses-d3487_run-02_dwi_1.png MD_sub-OAS30240_ses-d3487_run-02_dwi_1.png Normal 
+FA_sub-OAS30119_ses-d3722_run-02_dwi_35.png MD_sub-OAS30119_ses-d3722_run-02_dwi_35.png MCI 
+FA_sub-OAS30119_ses-d3722_run-01_dwi_65.png MD_sub-OAS30119_ses-d3722_run-01_dwi_65.png rsub-OAS30119_ses-d3722_T1w_145.png MCI
+rsub-OAS30145_ses-d3506_run-01_T1w_125.png AD  
+FA_sub-OAS30038_ses-d4495_run-01_dwi_1.png MD_sub-OAS30038_ses-d4495_run-01_dwi_1.png rsub-OAS30038_ses-d4495_T1w_1.png Normal
+rsub-OAS30144_ses-d1204_run-01_T1w_128.png AD  
+FA_sub-OAS30139_ses-d0101_run-02_dwi_48.png MD_sub-OAS30139_ses-d0101_run-02_dwi_48.png AD 
+rsub-OAS30064_ses-d0687_run-01_T1w_129.png AD  
+FA_sub-OAS30119_ses-d3722_run-01_dwi_42.png MD_sub-OAS30119_ses-d3722_run-01_dwi_42.png rsub-OAS30119_ses-d3722_T1w_122.png MCI
+rsub-OAS30012_ses-d0581_run-01_T1w_124.png MCI  
+rsub-OAS30012_ses-d0581_run-01_T1w_127.png MCI  
+FA_sub-OAS30030_ses-d0170_run-01_dwi_1.png MD_sub-OAS30030_ses-d0170_run-01_dwi_1.png rsub-OAS30030_ses-d0170_T1w_1.png Normal
+FA_sub-OAS30119_ses-d3722_run-01_dwi_52.png MD_sub-OAS30119_ses-d3722_run-01_dwi_52.png rsub-OAS30119_ses-d3722_T1w_132.png MCI
+FA_sub-OAS30314_ses-d7814_dwi_30.png MD_sub-OAS30314_ses-d7814_dwi_30.png rsub-OAS30314_ses-d7814_run-01_T1w_110.png MCI
+FA_sub-OAS30158_ses-d2467_dwi_50.png MD_sub-OAS30158_ses-d2467_dwi_50.png rsub-OAS30158_ses-d2467_run-01_T1w_130.png AD
+FA_sub-OAS30139_ses-d0101_run-01_dwi_48.png MD_sub-OAS30139_ses-d0101_run-01_dwi_48.png rsub-OAS30139_ses-d0101_T1w_128.png AD
+FA_sub-OAS30085_ses-d1566_run-01_dwi_50.png MD_sub-OAS30085_ses-d1566_run-01_dwi_50.png rsub-OAS30085_ses-d1566_T1w_130.png AD
+FA_sub-OAS30119_ses-d3722_run-01_dwi_48.png MD_sub-OAS30119_ses-d3722_run-01_dwi_48.png rsub-OAS30119_ses-d3722_T1w_128.png MCI
+FA_sub-OAS30145_ses-d4247_dwi_46.png MD_sub-OAS30145_ses-d4247_dwi_46.png rsub-OAS30145_ses-d4247_run-01_T1w_126.png AD
+FA_sub-OAS30314_ses-d7814_dwi_59.png MD_sub-OAS30314_ses-d7814_dwi_59.png rsub-OAS30314_ses-d7814_run-01_T1w_139.png MCI
+FA_sub-OAS30314_ses-d7814_dwi_29.png MD_sub-OAS30314_ses-d7814_dwi_29.png rsub-OAS30314_ses-d7814_run-01_T1w_109.png MCI
+FA_sub-OAS30010_ses-d0068_run-01_dwi_1.png MD_sub-OAS30010_ses-d0068_run-01_dwi_1.png rsub-OAS30010_ses-d0068_T1w_1.png Normal
+rsub-OAS30012_ses-d0581_run-01_T1w_130.png MCI  
+FA_sub-OAS30017_ses-d0054_dwi_1.png MD_sub-OAS30017_ses-d0054_dwi_1.png rsub-OAS30017_ses-d0054_run-01_T1w_1.png Normal
+FA_sub-OAS30675_ses-d8548_dwi_1.png MD_sub-OAS30675_ses-d8548_dwi_1.png rsub-OAS30675_ses-d8548_run-01_T1w_1.png Normal
+FA_sub-OAS30004_ses-d2229_run-01_dwi_1.png MD_sub-OAS30004_ses-d2229_run-01_dwi_1.png rsub-OAS30004_ses-d2229_run-01_T1w_1.png Normal
+FA_sub-OAS30206_ses-d2303_run-02_dwi_50.png MD_sub-OAS30206_ses-d2303_run-02_dwi_50.png AD 
+FA_sub-OAS30322_ses-d3851_dwi_1.png MD_sub-OAS30322_ses-d3851_dwi_1.png rsub-OAS30322_ses-d3851_T1w_1.png Normal
+rsub-OAS30984_ses-d3927_run-01_T1w_1.png Normal  
+FA_sub-OAS30314_ses-d7814_dwi_49.png MD_sub-OAS30314_ses-d7814_dwi_49.png rsub-OAS30314_ses-d7814_run-01_T1w_129.png MCI
+rsub-OAS30044_ses-d1319_T1w_1.png Normal  
+FA_sub-OAS30255_ses-d0019_dwi_46.png MD_sub-OAS30255_ses-d0019_dwi_46.png rsub-OAS30255_ses-d0019_run-01_T1w_126.png AD
+FA_sub-OAS30136_ses-d0063_run-01_dwi_49.png MD_sub-OAS30136_ses-d0063_run-01_dwi_49.png rsub-OAS30136_ses-d0063_T1w_129.png AD
+FA_sub-OAS30139_ses-d0101_run-01_dwi_50.png MD_sub-OAS30139_ses-d0101_run-01_dwi_50.png rsub-OAS30139_ses-d0101_T1w_130.png AD
+FA_sub-OAS30028_ses-d1260_run-01_dwi_1.png MD_sub-OAS30028_ses-d1260_run-01_dwi_1.png rsub-OAS30028_ses-d1260_T1w_1.png Normal
+FA_sub-OAS30314_ses-d7814_dwi_63.png MD_sub-OAS30314_ses-d7814_dwi_63.png rsub-OAS30314_ses-d7814_run-01_T1w_143.png MCI
+FA_sub-OAS30314_ses-d7814_dwi_61.png MD_sub-OAS30314_ses-d7814_dwi_61.png rsub-OAS30314_ses-d7814_run-01_T1w_141.png MCI
+FA_sub-OAS30314_ses-d7814_dwi_57.png MD_sub-OAS30314_ses-d7814_dwi_57.png rsub-OAS30314_ses-d7814_run-01_T1w_137.png MCI
+FA_sub-OAS30028_ses-d0043_dwi_1.png MD_sub-OAS30028_ses-d0043_dwi_1.png rsub-OAS30028_ses-d0043_run-01_T1w_1.png Normal
+FA_sub-OAS30171_ses-d0139_dwi_47.png MD_sub-OAS30171_ses-d0139_dwi_47.png rsub-OAS30171_ses-d0139_run-01_T1w_127.png AD
+FA_sub-OAS30087_ses-d0260_dwi_46.png MD_sub-OAS30087_ses-d0260_dwi_46.png rsub-OAS30087_ses-d0260_run-01_T1w_126.png AD
+FA_sub-OAS30014_ses-d1176_dwi_1.png MD_sub-OAS30014_ses-d1176_dwi_1.png rsub-OAS30014_ses-d1176_run-01_T1w_1.png Normal
+FA_sub-OAS30037_ses-d0154_run-01_dwi_1.png MD_sub-OAS30037_ses-d0154_run-01_dwi_1.png rsub-OAS30037_ses-d0154_T1w_1.png Normal
+FA_sub-OAS30119_ses-d3722_run-02_dwi_27.png MD_sub-OAS30119_ses-d3722_run-02_dwi_27.png MCI 
+FA_sub-OAS30119_ses-d3722_run-01_dwi_30.png MD_sub-OAS30119_ses-d3722_run-01_dwi_30.png rsub-OAS30119_ses-d3722_T1w_110.png MCI
+FA_sub-OAS30206_ses-d2303_run-01_dwi_47.png MD_sub-OAS30206_ses-d2303_run-01_dwi_47.png rsub-OAS30206_ses-d2303_T1w_127.png AD
+FA_sub-OAS30015_ses-d1374_dwi_1.png MD_sub-OAS30015_ses-d1374_dwi_1.png rsub-OAS30015_ses-d1374_run-01_T1w_1.png Normal
+FA_sub-OAS30119_ses-d3722_run-01_dwi_35.png MD_sub-OAS30119_ses-d3722_run-01_dwi_35.png rsub-OAS30119_ses-d3722_T1w_115.png MCI
+rsub-OAS30005_ses-d0143_T1w_1.png Normal  
+FA_sub-OAS30119_ses-d2415_dwi_49.png MD_sub-OAS30119_ses-d2415_dwi_49.png rsub-OAS30119_ses-d2415_run-01_T1w_129.png AD
+FA_sub-OAS31111_ses-d3618_run-01_dwi_1.png MD_sub-OAS31111_ses-d3618_run-01_dwi_1.png rsub-OAS31111_ses-d3618_T1w_1.png Normal
+FA_sub-OAS30008_ses-d0061_dwi_1.png MD_sub-OAS30008_ses-d0061_dwi_1.png rsub-OAS30008_ses-d0061_run-01_T1w_1.png Normal
+FA_sub-OAS30675_ses-d9297_run-01_dwi_1.png MD_sub-OAS30675_ses-d9297_run-01_dwi_1.png rsub-OAS30675_ses-d9297_run-01_T1w_1.png Normal
+rsub-OAS30041_ses-d6548_run-01_T1w_125.png MCI  
+rsub-OAS30119_ses-d1209_run-01_T1w_128.png AD  
+FA_sub-OAS30034_ses-d0044_run-02_dwi_1.png MD_sub-OAS30034_ses-d0044_run-02_dwi_1.png Normal 
+FA_sub-OAS30255_ses-d0019_dwi_48.png MD_sub-OAS30255_ses-d0019_dwi_48.png rsub-OAS30255_ses-d0019_run-01_T1w_128.png AD
+FA_sub-OAS30005_ses-d1274_run-01_dwi_1.png MD_sub-OAS30005_ses-d1274_run-01_dwi_1.png rsub-OAS30005_ses-d1274_run-01_T1w_1.png Normal
+FA_sub-OAS30314_ses-d7814_dwi_50.png MD_sub-OAS30314_ses-d7814_dwi_50.png rsub-OAS30314_ses-d7814_run-01_T1w_130.png MCI
+rsub-OAS30064_ses-d0687_run-01_T1w_127.png AD  
+rsub-OAS30064_ses-d0687_run-01_T1w_125.png AD  
+rsub-OAS30094_ses-d0679_run-01_T1w_127.png AD  
+FA_sub-OAS30206_ses-d2303_run-02_dwi_48.png MD_sub-OAS30206_ses-d2303_run-02_dwi_48.png AD 
+FA_sub-OAS30314_ses-d7814_dwi_62.png MD_sub-OAS30314_ses-d7814_dwi_62.png rsub-OAS30314_ses-d7814_run-01_T1w_142.png MCI
+FA_sub-OAS30209_ses-d1976_run-01_dwi_49.png MD_sub-OAS30209_ses-d1976_run-01_dwi_49.png rsub-OAS30209_ses-d1976_T1w_129.png AD
+FA_sub-OAS30087_ses-d0260_dwi_50.png MD_sub-OAS30087_ses-d0260_dwi_50.png rsub-OAS30087_ses-d0260_run-01_T1w_130.png AD
+FA_sub-OAS30032_ses-d3499_run-02_dwi_1.png MD_sub-OAS30032_ses-d3499_run-02_dwi_1.png Normal 
+FA_sub-OAS30003_ses-d3731_run-02_dwi_1.png MD_sub-OAS30003_ses-d3731_run-02_dwi_1.png Normal 
+rsub-OAS30094_ses-d0679_run-01_T1w_128.png AD  
+FA_sub-OAS30119_ses-d3722_run-01_dwi_39.png MD_sub-OAS30119_ses-d3722_run-01_dwi_39.png rsub-OAS30119_ses-d3722_T1w_119.png MCI
+FA_sub-OAS30314_ses-d7814_dwi_52.png MD_sub-OAS30314_ses-d7814_dwi_52.png rsub-OAS30314_ses-d7814_run-01_T1w_132.png MCI
+FA_sub-OAS30136_ses-d0063_run-01_dwi_47.png MD_sub-OAS30136_ses-d0063_run-01_dwi_47.png rsub-OAS30136_ses-d0063_T1w_127.png AD
+rsub-OAS30094_ses-d0679_run-01_T1w_125.png AD  
+FA_sub-OAS30314_ses-d7814_dwi_40.png MD_sub-OAS30314_ses-d7814_dwi_40.png rsub-OAS30314_ses-d7814_run-01_T1w_120.png MCI
+FA_sub-OAS30076_ses-d1735_run-01_dwi_49.png MD_sub-OAS30076_ses-d1735_run-01_dwi_49.png rsub-OAS30076_ses-d1735_T1w_129.png AD
+FA_sub-OAS30009_ses-d2457_run-02_dwi_1.png MD_sub-OAS30009_ses-d2457_run-02_dwi_1.png Normal 
+FA_sub-OAS30139_ses-d0101_run-01_dwi_46.png MD_sub-OAS30139_ses-d0101_run-01_dwi_46.png rsub-OAS30139_ses-d0101_T1w_126.png AD
+FA_sub-OAS30119_ses-d3722_run-01_dwi_63.png MD_sub-OAS30119_ses-d3722_run-01_dwi_63.png rsub-OAS30119_ses-d3722_T1w_143.png MCI
+rsub-OAS30041_ses-d6548_run-01_T1w_133.png MCI  
+FA_sub-OAS30119_ses-d3722_run-01_dwi_36.png MD_sub-OAS30119_ses-d3722_run-01_dwi_36.png rsub-OAS30119_ses-d3722_T1w_116.png MCI
+rsub-OAS30008_ses-d2035_T1w_1.png Normal  
+FA_sub-OAS30884_ses-d4499_run-01_dwi_1.png MD_sub-OAS30884_ses-d4499_run-01_dwi_1.png rsub-OAS30884_ses-d4499_T1w_1.png Normal
+FA_sub-OAS30145_ses-d4247_dwi_47.png MD_sub-OAS30145_ses-d4247_dwi_47.png rsub-OAS30145_ses-d4247_run-01_T1w_127.png AD
+FA_sub-OAS30262_ses-d0839_run-02_dwi_47.png MD_sub-OAS30262_ses-d0839_run-02_dwi_47.png AD 
+FA_sub-OAS30287_ses-d0890_run-02_dwi_49.png MD_sub-OAS30287_ses-d0890_run-02_dwi_49.png AD 
+rsub-OAS30119_ses-d1209_run-01_T1w_125.png AD  
+FA_sub-OAS30145_ses-d4247_dwi_48.png MD_sub-OAS30145_ses-d4247_dwi_48.png rsub-OAS30145_ses-d4247_run-01_T1w_128.png AD
+FA_sub-OAS30076_ses-d1735_run-02_dwi_46.png MD_sub-OAS30076_ses-d1735_run-02_dwi_46.png AD 
+rsub-OAS30012_ses-d0581_run-01_T1w_129.png MCI  
+FA_sub-OAS30206_ses-d2303_run-01_dwi_48.png MD_sub-OAS30206_ses-d2303_run-01_dwi_48.png rsub-OAS30206_ses-d2303_T1w_128.png AD
+FA_sub-OAS30119_ses-d3722_run-02_dwi_68.png MD_sub-OAS30119_ses-d3722_run-02_dwi_68.png MCI 
+rsub-OAS30014_ses-d0196_run-01_T1w_1.png Normal  
+FA_sub-OAS30025_ses-d2298_run-01_dwi_1.png MD_sub-OAS30025_ses-d2298_run-01_dwi_1.png rsub-OAS30025_ses-d2298_T1w_1.png Normal
+FA_sub-OAS30119_ses-d3722_run-02_dwi_32.png MD_sub-OAS30119_ses-d3722_run-02_dwi_32.png MCI 
+FA_sub-OAS30119_ses-d3260_dwi_47.png MD_sub-OAS30119_ses-d3260_dwi_47.png rsub-OAS30119_ses-d3260_run-01_T1w_127.png AD
+FA_sub-OAS30313_ses-d0048_run-02_dwi_47.png MD_sub-OAS30313_ses-d0048_run-02_dwi_47.png AD 
+FA_sub-OAS30136_ses-d0063_run-02_dwi_50.png MD_sub-OAS30136_ses-d0063_run-02_dwi_50.png AD 
+FA_sub-OAS30314_ses-d7814_dwi_38.png MD_sub-OAS30314_ses-d7814_dwi_38.png rsub-OAS30314_ses-d7814_run-01_T1w_118.png MCI
+FA_sub-OAS30923_ses-d6337_dwi_1.png MD_sub-OAS30923_ses-d6337_dwi_1.png rsub-OAS30923_ses-d6337_run-01_T1w_1.png Normal
+FA_sub-OAS30119_ses-d2415_dwi_50.png MD_sub-OAS30119_ses-d2415_dwi_50.png rsub-OAS30119_ses-d2415_run-01_T1w_130.png AD
+FA_sub-OAS30209_ses-d1976_run-01_dwi_47.png MD_sub-OAS30209_ses-d1976_run-01_dwi_47.png rsub-OAS30209_ses-d1976_T1w_127.png AD
+rsub-OAS30145_ses-d3506_run-01_T1w_130.png AD  
+FA_sub-OAS30119_ses-d3722_run-02_dwi_46.png MD_sub-OAS30119_ses-d3722_run-02_dwi_46.png MCI 
+rsub-OAS30041_ses-d6548_run-01_T1w_130.png MCI  
+FA_sub-OAS30139_ses-d0101_run-02_dwi_47.png MD_sub-OAS30139_ses-d0101_run-02_dwi_47.png AD 
+FA_sub-OAS30119_ses-d3722_run-02_dwi_57.png MD_sub-OAS30119_ses-d3722_run-02_dwi_57.png MCI 
+FA_sub-OAS30085_ses-d1566_run-01_dwi_49.png MD_sub-OAS30085_ses-d1566_run-01_dwi_49.png rsub-OAS30085_ses-d1566_T1w_129.png AD
+FA_sub-OAS30313_ses-d0048_run-02_dwi_48.png MD_sub-OAS30313_ses-d0048_run-02_dwi_48.png AD 
+FA_sub-OAS30214_ses-d4464_run-02_dwi_48.png MD_sub-OAS30214_ses-d4464_run-02_dwi_48.png AD 
+rsub-OAS30064_ses-d0687_run-01_T1w_130.png AD  
+rsub-OAS30007_ses-d1981_T1w_1.png Normal  
+rsub-OAS30059_ses-d0230_run-01_T1w_1.png Normal  
+FA_sub-OAS30119_ses-d3722_run-02_dwi_64.png MD_sub-OAS30119_ses-d3722_run-02_dwi_64.png MCI 
+FA_sub-OAS30119_ses-d3722_run-02_dwi_67.png MD_sub-OAS30119_ses-d3722_run-02_dwi_67.png MCI 
+rsub-OAS30145_ses-d3506_run-01_T1w_127.png AD  
+FA_sub-OAS31002_ses-d5329_run-04_dwi_1.png MD_sub-OAS31002_ses-d5329_run-04_dwi_1.png Normal 
+FA_sub-OAS30314_ses-d7814_dwi_45.png MD_sub-OAS30314_ses-d7814_dwi_45.png rsub-OAS30314_ses-d7814_run-01_T1w_125.png MCI
+rsub-OAS30094_ses-d0679_run-01_T1w_129.png AD  
+FA_sub-OAS30214_ses-d4464_run-02_dwi_46.png MD_sub-OAS30214_ses-d4464_run-02_dwi_46.png AD 
+FA_sub-OAS30314_ses-d7814_dwi_44.png MD_sub-OAS30314_ses-d7814_dwi_44.png rsub-OAS30314_ses-d7814_run-01_T1w_124.png MCI
+FA_sub-OAS30119_ses-d3722_run-02_dwi_47.png MD_sub-OAS30119_ses-d3722_run-02_dwi_47.png MCI 
+FA_sub-OAS30085_ses-d1566_run-01_dwi_47.png MD_sub-OAS30085_ses-d1566_run-01_dwi_47.png rsub-OAS30085_ses-d1566_T1w_127.png AD
+FA_sub-OAS30011_ses-d0055_run-02_dwi_1.png MD_sub-OAS30011_ses-d0055_run-02_dwi_1.png Normal 
+FA_sub-OAS30119_ses-d3722_run-02_dwi_53.png MD_sub-OAS30119_ses-d3722_run-02_dwi_53.png MCI 
+FA_sub-OAS30206_ses-d3024_run-02_dwi_1.png MD_sub-OAS30206_ses-d3024_run-02_dwi_1.png Normal 
+FA_sub-OAS30003_ses-d2669_run-01_dwi_1.png MD_sub-OAS30003_ses-d2669_run-01_dwi_1.png rsub-OAS30003_ses-d2669_T1w_1.png Normal
+FA_sub-OAS30314_ses-d7814_dwi_55.png MD_sub-OAS30314_ses-d7814_dwi_55.png rsub-OAS30314_ses-d7814_run-01_T1w_135.png MCI
+FA_sub-OAS30314_ses-d7814_dwi_46.png MD_sub-OAS30314_ses-d7814_dwi_46.png rsub-OAS30314_ses-d7814_run-01_T1w_126.png MCI
+rsub-OAS30041_ses-d6548_run-01_T1w_126.png MCI  
+FA_sub-OAS31111_ses-d3618_run-02_dwi_1.png MD_sub-OAS31111_ses-d3618_run-02_dwi_1.png Normal 
+FA_sub-OAS30314_ses-d7814_dwi_41.png MD_sub-OAS30314_ses-d7814_dwi_41.png rsub-OAS30314_ses-d7814_run-01_T1w_121.png MCI
+rsub-OAS30041_ses-d6548_run-01_T1w_128.png MCI  
+FA_sub-OAS30038_ses-d2242_dwi_1.png MD_sub-OAS30038_ses-d2242_dwi_1.png rsub-OAS30038_ses-d2242_run-01_T1w_1.png Normal
+FA_sub-OAS30119_ses-d3722_run-02_dwi_59.png MD_sub-OAS30119_ses-d3722_run-02_dwi_59.png MCI 
+FA_sub-OAS30206_ses-d3024_run-01_dwi_1.png MD_sub-OAS30206_ses-d3024_run-01_dwi_1.png rsub-OAS30206_ses-d3024_T1w_1.png Normal
+FA_sub-OAS30119_ses-d3722_run-02_dwi_56.png MD_sub-OAS30119_ses-d3722_run-02_dwi_56.png MCI 
+FA_sub-OAS30035_ses-d2218_dwi_1.png MD_sub-OAS30035_ses-d2218_dwi_1.png rsub-OAS30035_ses-d2218_run-01_T1w_1.png Normal
+FA_sub-OAS30085_ses-d1566_run-02_dwi_50.png MD_sub-OAS30085_ses-d1566_run-02_dwi_50.png AD 
+FA_sub-OAS30314_ses-d7814_dwi_39.png MD_sub-OAS30314_ses-d7814_dwi_39.png rsub-OAS30314_ses-d7814_run-01_T1w_119.png MCI
+FA_sub-OAS30314_ses-d7814_dwi_54.png MD_sub-OAS30314_ses-d7814_dwi_54.png rsub-OAS30314_ses-d7814_run-01_T1w_134.png MCI
+FA_sub-OAS30784_ses-d2716_run-01_dwi_1.png MD_sub-OAS30784_ses-d2716_run-01_dwi_1.png rsub-OAS30784_ses-d2716_T1w_1.png Normal
+FA_sub-OAS30119_ses-d3722_run-02_dwi_58.png MD_sub-OAS30119_ses-d3722_run-02_dwi_58.png MCI 
+FA_sub-OAS30153_ses-d3877_dwi_47.png MD_sub-OAS30153_ses-d3877_dwi_47.png rsub-OAS30153_ses-d3877_run-01_T1w_127.png AD
+FA_sub-OAS30119_ses-d3722_run-02_dwi_70.png MD_sub-OAS30119_ses-d3722_run-02_dwi_70.png MCI 
+FA_sub-OAS30010_ses-d0068_run-02_dwi_1.png MD_sub-OAS30010_ses-d0068_run-02_dwi_1.png Normal 
+FA_sub-OAS30171_ses-d0139_dwi_49.png MD_sub-OAS30171_ses-d0139_dwi_49.png rsub-OAS30171_ses-d0139_run-01_T1w_129.png AD
+FA_sub-OAS30119_ses-d3722_run-01_dwi_66.png MD_sub-OAS30119_ses-d3722_run-01_dwi_66.png rsub-OAS30119_ses-d3722_T1w_146.png MCI
+FA_sub-OAS30004_ses-d2229_run-02_dwi_1.png MD_sub-OAS30004_ses-d2229_run-02_dwi_1.png Normal 
+FA_sub-OAS30119_ses-d3722_run-02_dwi_50.png MD_sub-OAS30119_ses-d3722_run-02_dwi_50.png MCI 
+FA_sub-OAS30209_ses-d1976_run-01_dwi_48.png MD_sub-OAS30209_ses-d1976_run-01_dwi_48.png rsub-OAS30209_ses-d1976_T1w_128.png AD
+FA_sub-OAS30262_ses-d0839_run-02_dwi_48.png MD_sub-OAS30262_ses-d0839_run-02_dwi_48.png AD 
+FA_sub-OAS30076_ses-d1735_run-02_dwi_48.png MD_sub-OAS30076_ses-d1735_run-02_dwi_48.png AD 
+FA_sub-OAS30784_ses-d2716_run-02_dwi_1.png MD_sub-OAS30784_ses-d2716_run-02_dwi_1.png Normal 
+FA_sub-OAS30076_ses-d1735_run-02_dwi_50.png MD_sub-OAS30076_ses-d1735_run-02_dwi_50.png AD 
+FA_sub-OAS30136_ses-d0063_run-02_dwi_48.png MD_sub-OAS30136_ses-d0063_run-02_dwi_48.png AD 
+rsub-OAS30012_ses-d0124_run-01_T1w_127.png MCI  
+FA_sub-OAS30314_ses-d7814_dwi_65.png MD_sub-OAS30314_ses-d7814_dwi_65.png rsub-OAS30314_ses-d7814_run-01_T1w_145.png MCI
+rsub-OAS30001_ses-d0129_run-01_T1w_1.png Normal  
+FA_sub-OAS30171_ses-d0139_dwi_46.png MD_sub-OAS30171_ses-d0139_dwi_46.png rsub-OAS30171_ses-d0139_run-01_T1w_126.png AD
+FA_sub-OAS30240_ses-d1871_dwi_1.png MD_sub-OAS30240_ses-d1871_dwi_1.png rsub-OAS30240_ses-d1871_run-01_T1w_1.png Normal
+FA_sub-OAS30119_ses-d3722_run-02_dwi_44.png MD_sub-OAS30119_ses-d3722_run-02_dwi_44.png MCI 
+FA_sub-OAS30119_ses-d2415_dwi_47.png MD_sub-OAS30119_ses-d2415_dwi_47.png rsub-OAS30119_ses-d2415_run-01_T1w_127.png AD
+FA_sub-OAS30005_ses-d3453_run-01_dwi_1.png MD_sub-OAS30005_ses-d3453_run-01_dwi_1.png rsub-OAS30005_ses-d3453_T1w_1.png Normal
+FA_sub-OAS30119_ses-d3722_run-01_dwi_53.png MD_sub-OAS30119_ses-d3722_run-01_dwi_53.png rsub-OAS30119_ses-d3722_T1w_133.png MCI
+rsub-OAS30048_ses-d0983_run-01_T1w_1.png Normal  
+FA_sub-OAS30209_ses-d1976_run-02_dwi_48.png MD_sub-OAS30209_ses-d1976_run-02_dwi_48.png AD 
+FA_sub-OAS30004_ses-d3457_run-02_dwi_1.png MD_sub-OAS30004_ses-d3457_run-02_dwi_1.png Normal 
+FA_sub-OAS30119_ses-d3722_run-02_dwi_66.png MD_sub-OAS30119_ses-d3722_run-02_dwi_66.png MCI 
+FA_sub-OAS30119_ses-d3722_run-01_dwi_46.png MD_sub-OAS30119_ses-d3722_run-01_dwi_46.png rsub-OAS30119_ses-d3722_T1w_126.png MCI
+FA_sub-OAS30214_ses-d4464_run-02_dwi_47.png MD_sub-OAS30214_ses-d4464_run-02_dwi_47.png AD 
+FA_sub-OAS30003_ses-d1631_run-02_dwi_1.png MD_sub-OAS30003_ses-d1631_run-02_dwi_1.png Normal 
+FA_sub-OAS30287_ses-d0890_run-02_dwi_46.png MD_sub-OAS30287_ses-d0890_run-02_dwi_46.png AD 
+FA_sub-OAS30119_ses-d3722_run-01_dwi_38.png MD_sub-OAS30119_ses-d3722_run-01_dwi_38.png rsub-OAS30119_ses-d3722_T1w_118.png MCI
+FA_sub-OAS30005_ses-d1274_run-02_dwi_1.png MD_sub-OAS30005_ses-d1274_run-02_dwi_1.png Normal 
+rsub-OAS30145_ses-d3506_run-01_T1w_129.png AD  
+FA_sub-OAS30119_ses-d3722_run-01_dwi_47.png MD_sub-OAS30119_ses-d3722_run-01_dwi_47.png rsub-OAS30119_ses-d3722_T1w_127.png MCI
+FA_sub-OAS30033_ses-d1267_run-02_dwi_1.png MD_sub-OAS30033_ses-d1267_run-02_dwi_1.png Normal 
+FA_sub-OAS30314_ses-d7814_dwi_64.png MD_sub-OAS30314_ses-d7814_dwi_64.png rsub-OAS30314_ses-d7814_run-01_T1w_144.png MCI
+FA_sub-OAS30262_ses-d0839_run-02_dwi_46.png MD_sub-OAS30262_ses-d0839_run-02_dwi_46.png AD 
+FA_sub-OAS30033_ses-d0133_dwi_1.png MD_sub-OAS30033_ses-d0133_dwi_1.png rsub-OAS30033_ses-d0133_run-01_T1w_1.png Normal
+FA_sub-OAS30139_ses-d1702_run-02_dwi_1.png MD_sub-OAS30139_ses-d1702_run-02_dwi_1.png Normal 
+rsub-OAS30006_ses-d0166_T1w_1.png Normal  
+FA_sub-OAS30136_ses-d0063_run-02_dwi_46.png MD_sub-OAS30136_ses-d0063_run-02_dwi_46.png AD 
+FA_sub-OAS30314_ses-d7814_dwi_43.png MD_sub-OAS30314_ses-d7814_dwi_43.png rsub-OAS30314_ses-d7814_run-01_T1w_123.png MCI
+FA_sub-OAS30314_ses-d7814_dwi_60.png MD_sub-OAS30314_ses-d7814_dwi_60.png rsub-OAS30314_ses-d7814_run-01_T1w_140.png MCI
+FA_sub-OAS30287_ses-d0890_run-02_dwi_48.png MD_sub-OAS30287_ses-d0890_run-02_dwi_48.png AD 
+FA_sub-OAS30046_ses-d0848_run-02_dwi_1.png MD_sub-OAS30046_ses-d0848_run-02_dwi_1.png Normal 
+FA_sub-OAS30004_ses-d1101_dwi_1.png MD_sub-OAS30004_ses-d1101_dwi_1.png rsub-OAS30004_ses-d1101_run-01_T1w_1.png Normal
+rsub-OAS30007_ses-d1636_T1w_1.png Normal  
+FA_sub-OAS30119_ses-d3722_run-02_dwi_29.png MD_sub-OAS30119_ses-d3722_run-02_dwi_29.png MCI 
+FA_sub-OAS30009_ses-d1210_run-02_dwi_1.png MD_sub-OAS30009_ses-d1210_run-02_dwi_1.png Normal 
+FA_sub-OAS30206_ses-d2303_run-01_dwi_46.png MD_sub-OAS30206_ses-d2303_run-01_dwi_46.png rsub-OAS30206_ses-d2303_T1w_126.png AD
+rsub-OAS30012_ses-d0581_run-01_T1w_133.png MCI  
+rsub-OAS30032_ses-d0262_run-01_T1w_1.png Normal  
+FA_sub-OAS30018_ses-d0070_dwi_1.png MD_sub-OAS30018_ses-d0070_dwi_1.png rsub-OAS30018_ses-d0070_run-01_T1w_1.png Normal
+rsub-OAS30041_ses-d6548_run-01_T1w_132.png MCI  
+FA_sub-OAS30139_ses-d0101_run-02_dwi_49.png MD_sub-OAS30139_ses-d0101_run-02_dwi_49.png AD 
+FA_sub-OAS30032_ses-d3499_run-01_dwi_1.png MD_sub-OAS30032_ses-d3499_run-01_dwi_1.png rsub-OAS30032_ses-d3499_T1w_1.png Normal
+FA_sub-OAS30119_ses-d3722_run-02_dwi_60.png MD_sub-OAS30119_ses-d3722_run-02_dwi_60.png MCI 
+rsub-OAS30094_ses-d0679_run-01_T1w_130.png AD  
+FA_sub-OAS30240_ses-d4197_run-01_dwi_1.png MD_sub-OAS30240_ses-d4197_run-01_dwi_1.png rsub-OAS30240_ses-d4197_T1w_1.png Normal
+FA_sub-OAS30119_ses-d3722_run-01_dwi_62.png MD_sub-OAS30119_ses-d3722_run-01_dwi_62.png rsub-OAS30119_ses-d3722_T1w_142.png MCI
+rsub-OAS30012_ses-d0581_run-01_T1w_128.png MCI  
+FA_sub-OAS30004_ses-d2232_run-01_dwi_1.png MD_sub-OAS30004_ses-d2232_run-01_dwi_1.png rsub-OAS30004_ses-d2232_run-01_T1w_1.png Normal
+FA_sub-OAS30158_ses-d2467_dwi_47.png MD_sub-OAS30158_ses-d2467_dwi_47.png rsub-OAS30158_ses-d2467_run-01_T1w_127.png AD
+FA_sub-OAS30136_ses-d0063_run-01_dwi_50.png MD_sub-OAS30136_ses-d0063_run-01_dwi_50.png rsub-OAS30136_ses-d0063_T1w_130.png AD
+FA_sub-OAS30015_ses-d2004_run-01_dwi_1.png MD_sub-OAS30015_ses-d2004_run-01_dwi_1.png rsub-OAS30015_ses-d2004_T1w_1.png Normal
+FA_sub-OAS30178_ses-d2794_run-01_dwi_1.png MD_sub-OAS30178_ses-d2794_run-01_dwi_1.png rsub-OAS30178_ses-d2794_T1w_1.png Normal
+FA_sub-OAS30004_ses-d2232_run-02_dwi_1.png MD_sub-OAS30004_ses-d2232_run-02_dwi_1.png Normal 
+FA_sub-OAS30153_ses-d3877_dwi_48.png MD_sub-OAS30153_ses-d3877_dwi_48.png rsub-OAS30153_ses-d3877_run-01_T1w_128.png AD
+FA_sub-OAS30119_ses-d3722_run-02_dwi_45.png MD_sub-OAS30119_ses-d3722_run-02_dwi_45.png MCI 
+rsub-OAS30048_ses-d2292_run-01_T1w_1.png Normal  
+FA_sub-OAS30119_ses-d3722_run-02_dwi_26.png MD_sub-OAS30119_ses-d3722_run-02_dwi_26.png MCI 
+FA_sub-OAS30314_ses-d7814_dwi_35.png MD_sub-OAS30314_ses-d7814_dwi_35.png rsub-OAS30314_ses-d7814_run-01_T1w_115.png MCI
+FA_sub-OAS30884_ses-d3204_run-01_dwi_1.png MD_sub-OAS30884_ses-d3204_run-01_dwi_1.png rsub-OAS30884_ses-d3204_T1w_1.png Normal
+FA_sub-OAS30313_ses-d0048_run-02_dwi_50.png MD_sub-OAS30313_ses-d0048_run-02_dwi_50.png AD 
+rsub-OAS30012_ses-d0124_run-01_T1w_128.png MCI  
+FA_sub-OAS30136_ses-d0063_run-02_dwi_47.png MD_sub-OAS30136_ses-d0063_run-02_dwi_47.png AD 
+FA_sub-OAS30085_ses-d1566_run-02_dwi_48.png MD_sub-OAS30085_ses-d1566_run-02_dwi_48.png AD 
+FA_sub-OAS30119_ses-d3722_run-02_dwi_63.png MD_sub-OAS30119_ses-d3722_run-02_dwi_63.png MCI 
+FA_sub-OAS30153_ses-d3877_dwi_46.png MD_sub-OAS30153_ses-d3877_dwi_46.png rsub-OAS30153_ses-d3877_run-01_T1w_126.png AD
+rsub-OAS30012_ses-d0581_run-01_T1w_126.png MCI  
+rsub-OAS30119_ses-d1209_run-01_T1w_126.png AD  
+FA_sub-OAS30171_ses-d0139_dwi_48.png MD_sub-OAS30171_ses-d0139_dwi_48.png rsub-OAS30171_ses-d0139_run-01_T1w_128.png AD
+FA_sub-OAS30313_ses-d0048_run-02_dwi_49.png MD_sub-OAS30313_ses-d0048_run-02_dwi_49.png AD 
+FA_sub-OAS30087_ses-d0260_dwi_48.png MD_sub-OAS30087_ses-d0260_dwi_48.png rsub-OAS30087_ses-d0260_run-01_T1w_128.png AD
+FA_sub-OAS30119_ses-d3722_run-02_dwi_31.png MD_sub-OAS30119_ses-d3722_run-02_dwi_31.png MCI 
+rsub-OAS30053_ses-d0428_run-01_T1w_1.png Normal  
+FA_sub-OAS30165_ses-d1763_run-02_dwi_1.png MD_sub-OAS30165_ses-d1763_run-02_dwi_1.png Normal 
+rsub-OAS30021_ses-d0071_T1w_1.png Normal  
+FA_sub-OAS30076_ses-d1735_run-02_dwi_47.png MD_sub-OAS30076_ses-d1735_run-02_dwi_47.png AD 
+rsub-OAS30144_ses-d1204_run-01_T1w_130.png AD  
+FA_sub-OAS30884_ses-d3204_run-02_dwi_1.png MD_sub-OAS30884_ses-d3204_run-02_dwi_1.png Normal 
+FA_sub-OAS30314_ses-d7814_dwi_53.png MD_sub-OAS30314_ses-d7814_dwi_53.png rsub-OAS30314_ses-d7814_run-01_T1w_133.png MCI
+FA_sub-OAS30136_ses-d0063_run-01_dwi_48.png MD_sub-OAS30136_ses-d0063_run-01_dwi_48.png rsub-OAS30136_ses-d0063_T1w_128.png AD
+FA_sub-OAS30119_ses-d3722_run-02_dwi_71.png MD_sub-OAS30119_ses-d3722_run-02_dwi_71.png MCI 
+FA_sub-OAS30119_ses-d3722_run-02_dwi_36.png MD_sub-OAS30119_ses-d3722_run-02_dwi_36.png MCI 
+FA_sub-OAS30005_ses-d0581_dwi_1.png MD_sub-OAS30005_ses-d0581_dwi_1.png rsub-OAS30005_ses-d0581_run-01_T1w_1.png Normal
+FA_sub-OAS30119_ses-d3722_run-01_dwi_32.png MD_sub-OAS30119_ses-d3722_run-01_dwi_32.png rsub-OAS30119_ses-d3722_T1w_112.png MCI
+FA_sub-OAS30119_ses-d3722_run-02_dwi_62.png MD_sub-OAS30119_ses-d3722_run-02_dwi_62.png MCI 
+FA_sub-OAS30006_ses-d0373_dwi_1.png MD_sub-OAS30006_ses-d0373_dwi_1.png rsub-OAS30006_ses-d0373_run-01_T1w_1.png Normal
+FA_sub-OAS30025_ses-d0210_dwi_1.png MD_sub-OAS30025_ses-d0210_dwi_1.png rsub-OAS30025_ses-d0210_run-01_T1w_1.png Normal
+rsub-OAS30119_ses-d1209_run-01_T1w_127.png AD  
+FA_sub-OAS30675_ses-d9297_run-02_dwi_1.png MD_sub-OAS30675_ses-d9297_run-02_dwi_1.png Normal 
+FA_sub-OAS30076_ses-d1735_run-01_dwi_47.png MD_sub-OAS30076_ses-d1735_run-01_dwi_47.png rsub-OAS30076_ses-d1735_T1w_127.png AD
+FA_sub-OAS30009_ses-d1210_run-01_dwi_1.png MD_sub-OAS30009_ses-d1210_run-01_dwi_1.png rsub-OAS30009_ses-d1210_T1w_1.png Normal
+FA_sub-OAS30044_ses-d0054_run-01_dwi_1.png MD_sub-OAS30044_ses-d0054_run-01_dwi_1.png rsub-OAS30044_ses-d0054_T1w_1.png Normal
+FA_sub-OAS30452_ses-d2291_dwi_1.png MD_sub-OAS30452_ses-d2291_dwi_1.png rsub-OAS30452_ses-d2291_run-01_T1w_1.png Normal
+FA_sub-OAS30240_ses-d3483_run-01_dwi_1.png MD_sub-OAS30240_ses-d3483_run-01_dwi_1.png rsub-OAS30240_ses-d3483_T1w_1.png Normal
+FA_sub-OAS30139_ses-d0101_run-01_dwi_49.png MD_sub-OAS30139_ses-d0101_run-01_dwi_49.png rsub-OAS30139_ses-d0101_T1w_129.png AD
+FA_sub-OAS30001_ses-d0757_dwi_1.png MD_sub-OAS30001_ses-d0757_dwi_1.png rsub-OAS30001_ses-d0757_run-01_T1w_1.png Normal
+rsub-OAS30012_ses-d0581_run-01_T1w_125.png MCI  
+FA_sub-OAS30255_ses-d0019_dwi_47.png MD_sub-OAS30255_ses-d0019_dwi_47.png rsub-OAS30255_ses-d0019_run-01_T1w_127.png AD
+rsub-OAS30012_ses-d0581_run-01_T1w_132.png MCI  
+FA_sub-OAS30119_ses-d3722_run-02_dwi_30.png MD_sub-OAS30119_ses-d3722_run-02_dwi_30.png MCI 
+FA_sub-OAS30087_ses-d0260_dwi_49.png MD_sub-OAS30087_ses-d0260_dwi_49.png rsub-OAS30087_ses-d0260_run-01_T1w_129.png AD
+FA_sub-OAS30119_ses-d3722_run-02_dwi_42.png MD_sub-OAS30119_ses-d3722_run-02_dwi_42.png MCI 
+FA_sub-OAS30119_ses-d3722_run-02_dwi_54.png MD_sub-OAS30119_ses-d3722_run-02_dwi_54.png MCI 
+FA_sub-OAS30240_ses-d3483_run-02_dwi_1.png MD_sub-OAS30240_ses-d3483_run-02_dwi_1.png Normal 
+FA_sub-OAS30136_ses-d0063_run-01_dwi_46.png MD_sub-OAS30136_ses-d0063_run-01_dwi_46.png rsub-OAS30136_ses-d0063_T1w_126.png AD
+rsub-OAS30145_ses-d3506_run-01_T1w_126.png AD  
+FA_sub-OAS30119_ses-d3722_run-02_dwi_28.png MD_sub-OAS30119_ses-d3722_run-02_dwi_28.png MCI 
+FA_sub-OAS30007_ses-d1641_run-01_dwi_1.png MD_sub-OAS30007_ses-d1641_run-01_dwi_1.png rsub-OAS30007_ses-d1641_T1w_1.png Normal
+FA_sub-OAS30119_ses-d3722_run-02_dwi_52.png MD_sub-OAS30119_ses-d3722_run-02_dwi_52.png MCI 
+rsub-OAS30867_ses-d1398_run-01_T1w_1.png Normal  
+FA_sub-OAS30119_ses-d3722_run-01_dwi_54.png MD_sub-OAS30119_ses-d3722_run-01_dwi_54.png rsub-OAS30119_ses-d3722_T1w_134.png MCI
+FA_sub-OAS30119_ses-d3722_run-01_dwi_29.png MD_sub-OAS30119_ses-d3722_run-01_dwi_29.png rsub-OAS30119_ses-d3722_T1w_109.png MCI
+FA_sub-OAS30209_ses-d1976_run-01_dwi_46.png MD_sub-OAS30209_ses-d1976_run-01_dwi_46.png rsub-OAS30209_ses-d1976_T1w_126.png AD
+rsub-OAS30041_ses-d6548_run-01_T1w_129.png MCI  
+FA_sub-OAS31002_ses-d5329_run-01_dwi_1.png MD_sub-OAS31002_ses-d5329_run-01_dwi_1.png rsub-OAS31002_ses-d5329_run-01_T1w_1.png Normal
+FA_sub-OAS30161_ses-d2517_run-01_dwi_1.png MD_sub-OAS30161_ses-d2517_run-01_dwi_1.png rsub-OAS30161_ses-d2517_T1w_1.png Normal
+FA_sub-OAS30119_ses-d3722_run-02_dwi_43.png MD_sub-OAS30119_ses-d3722_run-02_dwi_43.png MCI 
+FA_sub-OAS30003_ses-d1631_run-01_dwi_1.png MD_sub-OAS30003_ses-d1631_run-01_dwi_1.png rsub-OAS30003_ses-d1631_run-01_T1w_1.png Normal
+FA_sub-OAS30662_ses-d3095_dwi_1.png MD_sub-OAS30662_ses-d3095_dwi_1.png rsub-OAS30662_ses-d3095_run-01_T1w_1.png Normal
+FA_sub-OAS30262_ses-d0839_run-02_dwi_50.png MD_sub-OAS30262_ses-d0839_run-02_dwi_50.png AD 
+FA_sub-OAS30314_ses-d7814_dwi_32.png MD_sub-OAS30314_ses-d7814_dwi_32.png rsub-OAS30314_ses-d7814_run-01_T1w_112.png MCI
+FA_sub-OAS30314_ses-d7814_dwi_47.png MD_sub-OAS30314_ses-d7814_dwi_47.png rsub-OAS30314_ses-d7814_run-01_T1w_127.png MCI
+rsub-OAS30012_ses-d0124_run-01_T1w_132.png MCI  
+FA_sub-OAS30119_ses-d2415_dwi_46.png MD_sub-OAS30119_ses-d2415_dwi_46.png rsub-OAS30119_ses-d2415_run-01_T1w_126.png AD
+rsub-OAS30064_ses-d0687_run-01_T1w_128.png AD  
+FA_sub-OAS30006_ses-d2341_run-02_dwi_1.png MD_sub-OAS30006_ses-d2341_run-02_dwi_1.png Normal 
+FA_sub-OAS30119_ses-d3722_run-02_dwi_37.png MD_sub-OAS30119_ses-d3722_run-02_dwi_37.png MCI 
+FA_sub-OAS30009_ses-d2457_run-01_dwi_1.png MD_sub-OAS30009_ses-d2457_run-01_dwi_1.png rsub-OAS30009_ses-d2457_T1w_1.png Normal
+FA_sub-OAS30007_ses-d0061_dwi_1.png MD_sub-OAS30007_ses-d0061_dwi_1.png rsub-OAS30007_ses-d0061_run-01_T1w_1.png Normal
+rsub-OAS30003_ses-d0558_run-01_T1w_1.png Normal  
+FA_sub-OAS30119_ses-d3260_dwi_46.png MD_sub-OAS30119_ses-d3260_dwi_46.png rsub-OAS30119_ses-d3260_run-01_T1w_126.png AD
+rsub-OAS30015_ses-d0116_run-01_T1w_1.png Normal  
+FA_sub-OAS30209_ses-d1976_run-01_dwi_50.png MD_sub-OAS30209_ses-d1976_run-01_dwi_50.png rsub-OAS30209_ses-d1976_T1w_130.png AD
+FA_sub-OAS30044_ses-d0061_run-02_dwi_1.png MD_sub-OAS30044_ses-d0061_run-02_dwi_1.png Normal 
+FA_sub-OAS30139_ses-d0101_run-02_dwi_50.png MD_sub-OAS30139_ses-d0101_run-02_dwi_50.png AD 
+FA_sub-OAS30006_ses-d2342_run-01_dwi_1.png MD_sub-OAS30006_ses-d2342_run-01_dwi_1.png rsub-OAS30006_ses-d2342_T1w_1.png Normal
+FA_sub-OAS30119_ses-d3722_run-02_dwi_40.png MD_sub-OAS30119_ses-d3722_run-02_dwi_40.png MCI 
+FA_sub-OAS30158_ses-d2467_dwi_48.png MD_sub-OAS30158_ses-d2467_dwi_48.png rsub-OAS30158_ses-d2467_run-01_T1w_128.png AD
+rsub-OAS30144_ses-d1204_run-01_T1w_125.png AD  
+FA_sub-OAS30015_ses-d2004_run-02_dwi_1.png MD_sub-OAS30015_ses-d2004_run-02_dwi_1.png Normal 
+FA_sub-OAS30087_ses-d0260_dwi_47.png MD_sub-OAS30087_ses-d0260_dwi_47.png rsub-OAS30087_ses-d0260_run-01_T1w_127.png AD
+FA_sub-OAS30028_ses-d1260_run-02_dwi_1.png MD_sub-OAS30028_ses-d1260_run-02_dwi_1.png Normal 
+rsub-OAS30003_ses-d3320_T1w_1.png Normal  
+FA_sub-OAS30036_ses-d0059_run-02_dwi_1.png MD_sub-OAS30036_ses-d0059_run-02_dwi_1.png Normal 
+FA_sub-OAS30119_ses-d3722_run-01_dwi_55.png MD_sub-OAS30119_ses-d3722_run-01_dwi_55.png rsub-OAS30119_ses-d3722_T1w_135.png MCI
+FA_sub-OAS30119_ses-d2415_dwi_48.png MD_sub-OAS30119_ses-d2415_dwi_48.png rsub-OAS30119_ses-d2415_run-01_T1w_128.png AD
+FA_sub-OAS30119_ses-d3722_run-02_dwi_34.png MD_sub-OAS30119_ses-d3722_run-02_dwi_34.png MCI 
+FA_sub-OAS30206_ses-d2303_run-02_dwi_49.png MD_sub-OAS30206_ses-d2303_run-02_dwi_49.png AD 
+FA_sub-OAS30119_ses-d3722_run-01_dwi_41.png MD_sub-OAS30119_ses-d3722_run-01_dwi_41.png rsub-OAS30119_ses-d3722_T1w_121.png MCI
+FA_sub-OAS30119_ses-d3722_run-02_dwi_61.png MD_sub-OAS30119_ses-d3722_run-02_dwi_61.png MCI 
+FA_sub-OAS30037_ses-d0154_run-02_dwi_1.png MD_sub-OAS30037_ses-d0154_run-02_dwi_1.png Normal 
+rsub-OAS30067_ses-d0057_T1w_1.png Normal  
+FA_sub-OAS30038_ses-d4495_run-02_dwi_1.png MD_sub-OAS30038_ses-d4495_run-02_dwi_1.png Normal 
+FA_sub-OAS30206_ses-d2303_run-01_dwi_49.png MD_sub-OAS30206_ses-d2303_run-01_dwi_49.png rsub-OAS30206_ses-d2303_T1w_129.png AD
+rsub-OAS30119_ses-d1209_run-01_T1w_129.png AD  
+FA_sub-OAS30008_ses-d1313_dwi_1.png MD_sub-OAS30008_ses-d1313_dwi_1.png rsub-OAS30008_ses-d1313_T1w_1.png Normal
+FA_sub-OAS30240_ses-d4197_run-02_dwi_1.png MD_sub-OAS30240_ses-d4197_run-02_dwi_1.png Normal 
+FA_sub-OAS31002_ses-d4948_dwi_1.png MD_sub-OAS31002_ses-d4948_dwi_1.png rsub-OAS31002_ses-d4948_run-01_T1w_1.png Normal
+FA_sub-OAS30139_ses-d0101_run-01_dwi_47.png MD_sub-OAS30139_ses-d0101_run-01_dwi_47.png rsub-OAS30139_ses-d0101_T1w_127.png AD
+FA_sub-OAS30262_ses-d0839_run-02_dwi_49.png MD_sub-OAS30262_ses-d0839_run-02_dwi_49.png AD 
+FA_sub-OAS30314_ses-d7814_dwi_56.png MD_sub-OAS30314_ses-d7814_dwi_56.png rsub-OAS30314_ses-d7814_run-01_T1w_136.png MCI
+rsub-OAS30144_ses-d1204_run-01_T1w_126.png AD  
+FA_sub-OAS30119_ses-d3722_run-01_dwi_57.png MD_sub-OAS30119_ses-d3722_run-01_dwi_57.png rsub-OAS30119_ses-d3722_T1w_137.png MCI
+FA_sub-OAS30025_ses-d2298_run-02_dwi_1.png MD_sub-OAS30025_ses-d2298_run-02_dwi_1.png Normal 
+rsub-OAS30038_ses-d1214_run-01_T1w_1.png Normal  
+FA_sub-OAS30018_ses-d0893_run-01_dwi_1.png MD_sub-OAS30018_ses-d0893_run-01_dwi_1.png rsub-OAS30018_ses-d0893_T1w_1.png Normal
+FA_sub-OAS30119_ses-d3722_run-01_dwi_40.png MD_sub-OAS30119_ses-d3722_run-01_dwi_40.png rsub-OAS30119_ses-d3722_T1w_120.png MCI
+rsub-OAS30011_ses-d1671_T1w_1.png Normal  
+FA_sub-OAS30145_ses-d4247_dwi_49.png MD_sub-OAS30145_ses-d4247_dwi_49.png rsub-OAS30145_ses-d4247_run-01_T1w_129.png AD
+FA_sub-OAS30206_ses-d2303_run-02_dwi_47.png MD_sub-OAS30206_ses-d2303_run-02_dwi_47.png AD 
+FA_sub-OAS30214_ses-d4464_run-01_dwi_48.png MD_sub-OAS30214_ses-d4464_run-01_dwi_48.png rsub-OAS30214_ses-d4464_T1w_128.png AD
+FA_sub-OAS30076_ses-d1735_run-01_dwi_46.png MD_sub-OAS30076_ses-d1735_run-01_dwi_46.png rsub-OAS30076_ses-d1735_T1w_126.png AD
+FA_sub-OAS30206_ses-d2303_run-01_dwi_50.png MD_sub-OAS30206_ses-d2303_run-01_dwi_50.png rsub-OAS30206_ses-d2303_T1w_130.png AD
+rsub-OAS30012_ses-d0124_run-01_T1w_129.png MCI  
+FA_sub-OAS30005_ses-d2384_run-02_dwi_1.png MD_sub-OAS30005_ses-d2384_run-02_dwi_1.png Normal 
+FA_sub-OAS30018_ses-d0893_run-02_dwi_1.png MD_sub-OAS30018_ses-d0893_run-02_dwi_1.png Normal 
+FA_sub-OAS30214_ses-d4464_run-02_dwi_50.png MD_sub-OAS30214_ses-d4464_run-02_dwi_50.png AD 
+FA_sub-OAS30136_ses-d0063_run-02_dwi_49.png MD_sub-OAS30136_ses-d0063_run-02_dwi_49.png AD 
+rsub-OAS30012_ses-d0124_run-01_T1w_126.png MCI  
+FA_sub-OAS30119_ses-d3722_run-01_dwi_58.png MD_sub-OAS30119_ses-d3722_run-01_dwi_58.png rsub-OAS30119_ses-d3722_T1w_138.png MCI
+FA_sub-OAS30209_ses-d1976_run-02_dwi_47.png MD_sub-OAS30209_ses-d1976_run-02_dwi_47.png AD 
+FA_sub-OAS30028_ses-d1847_run-02_dwi_1.png MD_sub-OAS30028_ses-d1847_run-02_dwi_1.png Normal 
+FA_sub-OAS30214_ses-d4464_run-01_dwi_47.png MD_sub-OAS30214_ses-d4464_run-01_dwi_47.png rsub-OAS30214_ses-d4464_T1w_127.png AD
+FA_sub-OAS30214_ses-d4464_run-01_dwi_46.png MD_sub-OAS30214_ses-d4464_run-01_dwi_46.png rsub-OAS30214_ses-d4464_T1w_126.png AD
+FA_sub-OAS30119_ses-d3722_run-01_dwi_44.png MD_sub-OAS30119_ses-d3722_run-01_dwi_44.png rsub-OAS30119_ses-d3722_T1w_124.png MCI
+FA_sub-OAS30119_ses-d3722_run-01_dwi_43.png MD_sub-OAS30119_ses-d3722_run-01_dwi_43.png rsub-OAS30119_ses-d3722_T1w_123.png MCI
+FA_sub-OAS30119_ses-d3722_run-02_dwi_48.png MD_sub-OAS30119_ses-d3722_run-02_dwi_48.png MCI 
+FA_sub-OAS30119_ses-d3260_dwi_50.png MD_sub-OAS30119_ses-d3260_dwi_50.png rsub-OAS30119_ses-d3260_run-01_T1w_130.png AD
+rsub-OAS30062_ses-d3469_T1w_1.png Normal  
+rsub-OAS30012_ses-d0124_run-01_T1w_125.png MCI  
+FA_sub-OAS30119_ses-d3722_run-01_dwi_61.png MD_sub-OAS30119_ses-d3722_run-01_dwi_61.png rsub-OAS30119_ses-d3722_T1w_141.png MCI
+FA_sub-OAS30008_ses-d1327_run-02_dwi_1.png MD_sub-OAS30008_ses-d1327_run-02_dwi_1.png Normal 
+FA_sub-OAS30076_ses-d1735_run-01_dwi_48.png MD_sub-OAS30076_ses-d1735_run-01_dwi_48.png rsub-OAS30076_ses-d1735_T1w_128.png AD
+FA_sub-OAS30119_ses-d3722_run-02_dwi_38.png MD_sub-OAS30119_ses-d3722_run-02_dwi_38.png MCI 
+rsub-OAS30006_ses-d3386_T1w_1.png Normal  
+FA_sub-OAS30314_ses-d7814_dwi_58.png MD_sub-OAS30314_ses-d7814_dwi_58.png rsub-OAS30314_ses-d7814_run-01_T1w_138.png MCI
+FA_sub-OAS30119_ses-d3722_run-02_dwi_49.png MD_sub-OAS30119_ses-d3722_run-02_dwi_49.png MCI 
+FA_sub-OAS30165_ses-d1763_run-01_dwi_1.png MD_sub-OAS30165_ses-d1763_run-01_dwi_1.png rsub-OAS30165_ses-d1763_T1w_1.png Normal
+FA_sub-OAS30380_ses-d3446_dwi_1.png MD_sub-OAS30380_ses-d3446_dwi_1.png rsub-OAS30380_ses-d3446_run-01_T1w_1.png Normal
+FA_sub-OAS30314_ses-d7814_dwi_48.png MD_sub-OAS30314_ses-d7814_dwi_48.png rsub-OAS30314_ses-d7814_run-01_T1w_128.png MCI
+FA_sub-OAS30171_ses-d0139_dwi_50.png MD_sub-OAS30171_ses-d0139_dwi_50.png rsub-OAS30171_ses-d0139_run-01_T1w_130.png AD
+FA_sub-OAS30085_ses-d1566_run-02_dwi_46.png MD_sub-OAS30085_ses-d1566_run-02_dwi_46.png AD 
+FA_sub-OAS30139_ses-d1702_run-01_dwi_1.png MD_sub-OAS30139_ses-d1702_run-01_dwi_1.png rsub-OAS30139_ses-d1702_T1w_1.png Normal
+FA_sub-OAS30007_ses-d1641_run-02_dwi_1.png MD_sub-OAS30007_ses-d1641_run-02_dwi_1.png Normal 
+FA_sub-OAS30161_ses-d2517_run-02_dwi_1.png MD_sub-OAS30161_ses-d2517_run-02_dwi_1.png Normal 
+FA_sub-OAS30287_ses-d0890_run-02_dwi_50.png MD_sub-OAS30287_ses-d0890_run-02_dwi_50.png AD 
+FA_sub-OAS30028_ses-d1847_run-01_dwi_1.png MD_sub-OAS30028_ses-d1847_run-01_dwi_1.png rsub-OAS30028_ses-d1847_T1w_1.png Normal
+FA_sub-OAS30119_ses-d3722_run-01_dwi_33.png MD_sub-OAS30119_ses-d3722_run-01_dwi_33.png rsub-OAS30119_ses-d3722_T1w_113.png MCI
+rsub-OAS30041_ses-d6548_run-01_T1w_131.png MCI  
+FA_sub-OAS30006_ses-d2341_run-01_dwi_1.png MD_sub-OAS30006_ses-d2341_run-01_dwi_1.png rsub-OAS30006_ses-d2341_T1w_1.png Normal
+FA_sub-OAS30046_ses-d1968_run-02_dwi_1.png MD_sub-OAS30046_ses-d1968_run-02_dwi_1.png Normal 
+FA_sub-OAS30119_ses-d3722_run-01_dwi_37.png MD_sub-OAS30119_ses-d3722_run-01_dwi_37.png rsub-OAS30119_ses-d3722_T1w_117.png MCI
+rsub-OAS30012_ses-d0124_run-01_T1w_133.png MCI  
+FA_sub-OAS30314_ses-d7814_dwi_33.png MD_sub-OAS30314_ses-d7814_dwi_33.png rsub-OAS30314_ses-d7814_run-01_T1w_113.png MCI
+FA_sub-OAS30255_ses-d0019_dwi_49.png MD_sub-OAS30255_ses-d0019_dwi_49.png rsub-OAS30255_ses-d0019_run-01_T1w_129.png AD
+FA_sub-OAS30003_ses-d2669_run-02_dwi_1.png MD_sub-OAS30003_ses-d2669_run-02_dwi_1.png Normal 
+FA_sub-OAS30038_ses-d3376_run-01_dwi_1.png MD_sub-OAS30038_ses-d3376_run-01_dwi_1.png rsub-OAS30038_ses-d3376_T1w_1.png Normal
+FA_sub-OAS30314_ses-d7814_dwi_66.png MD_sub-OAS30314_ses-d7814_dwi_66.png rsub-OAS30314_ses-d7814_run-01_T1w_146.png MCI
+FA_sub-OAS30119_ses-d3722_run-01_dwi_59.png MD_sub-OAS30119_ses-d3722_run-01_dwi_59.png rsub-OAS30119_ses-d3722_T1w_139.png MCI
+FA_sub-OAS30015_ses-d0788_dwi_1.png MD_sub-OAS30015_ses-d0788_dwi_1.png rsub-OAS30015_ses-d0788_run-01_T1w_1.png Normal
+FA_sub-OAS30178_ses-d2794_run-02_dwi_1.png MD_sub-OAS30178_ses-d2794_run-02_dwi_1.png Normal 
+FA_sub-OAS30119_ses-d3722_run-01_dwi_50.png MD_sub-OAS30119_ses-d3722_run-01_dwi_50.png rsub-OAS30119_ses-d3722_T1w_130.png MCI
+rsub-OAS30012_ses-d0581_run-01_T1w_131.png MCI  
+rsub-OAS30041_ses-d6548_run-01_T1w_127.png MCI  
+FA_sub-OAS30214_ses-d4464_run-01_dwi_50.png MD_sub-OAS30214_ses-d4464_run-01_dwi_50.png rsub-OAS30214_ses-d4464_T1w_130.png AD
+rsub-OAS30062_ses-d0087_run-01_T1w_1.png Normal  
+FA_sub-OAS30119_ses-d3722_run-02_dwi_24.png MD_sub-OAS30119_ses-d3722_run-02_dwi_24.png MCI 
+FA_sub-OAS30119_ses-d3722_run-02_dwi_65.png MD_sub-OAS30119_ses-d3722_run-02_dwi_65.png MCI 
+FA_sub-OAS30158_ses-d2467_dwi_49.png MD_sub-OAS30158_ses-d2467_dwi_49.png rsub-OAS30158_ses-d2467_run-01_T1w_129.png AD
+FA_sub-OAS30314_ses-d7814_dwi_51.png MD_sub-OAS30314_ses-d7814_dwi_51.png rsub-OAS30314_ses-d7814_run-01_T1w_131.png MCI
+FA_sub-OAS30884_ses-d4499_run-02_dwi_1.png MD_sub-OAS30884_ses-d4499_run-02_dwi_1.png Normal 
+FA_sub-OAS30314_ses-d7814_dwi_31.png MD_sub-OAS30314_ses-d7814_dwi_31.png rsub-OAS30314_ses-d7814_run-01_T1w_111.png MCI
+FA_sub-OAS30119_ses-d3722_run-02_dwi_41.png MD_sub-OAS30119_ses-d3722_run-02_dwi_41.png MCI 
+rsub-OAS30059_ses-d1188_T1w_1.png Normal  
+FA_sub-OAS30085_ses-d1566_run-01_dwi_46.png MD_sub-OAS30085_ses-d1566_run-01_dwi_46.png rsub-OAS30085_ses-d1566_T1w_126.png AD
+FA_sub-OAS30030_ses-d0170_run-02_dwi_1.png MD_sub-OAS30030_ses-d0170_run-02_dwi_1.png Normal 
+FA_sub-OAS30085_ses-d1566_run-02_dwi_47.png MD_sub-OAS30085_ses-d1566_run-02_dwi_47.png AD 
+rsub-OAS30240_ses-d3843_T1w_1.png Normal  
+rsub-OAS30012_ses-d0124_run-01_T1w_124.png MCI  
